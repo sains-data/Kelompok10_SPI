@@ -4,10 +4,10 @@
 Tugas Besar Pergudangan Data - Kelompok 10
 
 ## Team Members
-- NIM - Nama (Role)
--
-- 
--
+- 122450102 - Daris samudra (Leader)
+- 123450096 - Razin Hafid Hamdi (Member)
+- 123450050 - Ahmad Rizky (Member)
+- 120450019 - Kholisaturrohmah (member)
 
 ## Project Description
 Proyek ini bertujuan untuk merancang dan mengimplementasikan data mart untuk **Platform Satu Data ITERA** - sebuah portal data terpadu yang menyediakan dataset dan insight tentang Institut Teknologi Sumatera. Platform ini memungkinkan pengguna (mahasiswa, dosen, peneliti, dan publik) untuk mencari, mengakses, dan menganalisis berbagai dataset terkait institusi.
